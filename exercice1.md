@@ -14,12 +14,20 @@
 #### *swapon /dev/sdb2* ####
 ![La partition swap](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/swap.png)
 
-### Montage ###
+### Montage automatique  ###
 #### *blkid /dev/sdb* ####
+### récuper le UUID ###
+![UUID](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/uuid.png)
+
+### Entrer dans le fichier /etc/fstab ###
 #### *nano /etc/fstab* #### 
+![UUID](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/fstab.png)
+#### Creer le fichier  /mnt/data ####
 #### *mkdir /mnt/data* ####
-#### POUR TESTER L AUTOMATIQYE ####
-#### *mount –a* ####
+#### POUR TESTER  le montage automatique ####
+#### *mount –a* #### 
+![UUID](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/montage.png)
+
 
 
 
