@@ -5,11 +5,17 @@
 ####  **mkfs.ext4 /dev/sdb1** #### 
 
 ### Creation de patition swap ###
-#### *fdisk /dev/sdb*####
-#### *mkswap /dev/sdb2*####
-#### *swapon /dev/sdb2*####
+#### *fdisk /dev/sdb* ####
+#### *mkswap /dev/sdb2* ####
+#### *swapon /dev/sdb2* ####
 
-### Creation de patition swap ###
+### Montage ###
+#### *blkid /dev/sdb* ####
+#### *nano /etc/fstab* #### 
+#### *mkdir /mnt/data* ####
+#### POUR TESTER L AUTOMATIQYE ####
+#### *mount –a* ####
+
 
 
 
