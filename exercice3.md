@@ -29,21 +29,23 @@
        - "Evidement !" '
 ### 6. fg %1 ###
 
-### 7.* Materiel réseaux sur la cauche 2 C'est switch
+### 7. Materiel réseaux sur la cauche 2 C'est switch
     Matériel réseau de la cauxhe 3 c'est Rrouteur
     La couche 2 commute les trames Ethernet en fonction des adresses MAC 
     la couche 3 transfère les paquets IP à l'aide des adresses réseau*
 
-#### 8. cd  | Set-Location ou cd
-####  cp   | Copy-Item    
-####  mkdir| New-Item -ItemType Director
-#### ls   | Get-ChildItem  ou ls
+#### 8. les commandes bash vers powershell
+	cd  | Set-Location ou cd
+  	cp   | Copy-Item    
+ 	 mkdir| New-Item -ItemType Director
+ 	ls   | Get-ChildItem  ou ls
 
 ### 9. payload : C'est la charge utile
-#### le PAYLOAD = la charge utile (ou donnée utile) qui est envoyée dans la 
-#### trame. Le payload est encapsulé dans une trame, qui contient diverses 
-#### informations : la fréquence utilisée, le timestamp, etc..
+ le PAYLOAD = la charge utile (ou donnée utile) qui est envoyée dans la 
+ trame. Le payload est encapsulé dans une trame, qui contient diverses 
+ informations : la fréquence utilisée, le timestamp, etc..
 
-#### 10. CIDR Pour simplifier l’écriture des masques de sous réseau, on écrit simplement le nombre de bits à 1 précédé d’un /.
+#### 10. CIDR
+CIDR Pour simplifier l’écriture des masques de sous réseau, on écrit simplement le nombre de bits à 1 précédé d’un /.
 
 
