@@ -16,8 +16,8 @@
 #### structure conditionnelle "if" en Bash signifie que le code sera exécuté uniquement si la condition testée est vraie. Si elle est fausse, aucune action spécifique sera exécutée. ####
 
 #### exemple: Vérifier si le répertoire existe ####
-###*if [ ! -d "$1" ]; then
+### *if [ ! -d "$1" ]; then
 	echo "Erreur : Le répertoire $1 n'existe pas."
 	exit 1
-fi*###
+fi* ###
 
