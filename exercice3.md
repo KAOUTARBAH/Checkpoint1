@@ -4,8 +4,8 @@
    *cat /etc/passwd*  
 ![listeUser ](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/USER.png)
 
-### 2. La commande de xhanger les droits au fichier myfile rwxr--r-- ###
-#### *chmod 744 myfile* #### 
+### 2. La commande de xhanger les droits au fichier myfile rwxr--r-- 
+   *chmod 744 myfile*  
 
 ### 3. la différence entre variables local et variables d'environnement en bash script ###
 	 variables local celles qui n'existent que dans les limites du shell dans lequel elles ont été créées ####
@@ -20,7 +20,7 @@
         if [ ! -d "$1" ]; then
 	echo "Erreur : Le répertoire $1 n'existe pas."
 	exit 1
- 	fi* ###
+ 	fi
 
 ### 5. le script est :
        echo 'Malgre le prix élevé de 100$ , il a dit "Bonjour !" au vendeur :
