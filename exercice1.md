@@ -9,3 +9,8 @@
 #### *mkswap /dev/sdb2*####
 #### *swapon /dev/sdb2*####
 
+### Creation de patition swap ###
+
+
+
+
