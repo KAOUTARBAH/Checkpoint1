@@ -16,7 +16,8 @@
 #### structure conditionnelle "if" en Bash signifie que le code sera exécuté uniquement si la condition testée est vraie. Si elle est fausse, aucune action spécifique sera exécutée. ####
 
 #### exemple: Vérifier si le répertoire existe ####
-### *if [ ! -d "$1" ]; then
+###  Eexmple :
+        if [ ! -d "$1" ]; then
 	echo "Erreur : Le répertoire $1 n'existe pas."
 	exit 1
  	fi* ###
@@ -41,11 +42,11 @@
  	ls   | Get-ChildItem  ou ls
 
 ### 9. payload : C'est la charge utile
- le PAYLOAD = la charge utile (ou donnée utile) qui est envoyée dans la 
- trame. Le payload est encapsulé dans une trame, qui contient diverses 
- informations : la fréquence utilisée, le timestamp, etc..
+ 	le PAYLOAD = la charge utile (ou donnée utile) qui est envoyée dans la 
+ 	trame. Le payload est encapsulé dans une trame, qui contient diverses 
+	 informations : la fréquence utilisée, le timestamp, etc..
 
 #### 10. CIDR
-CIDR Pour simplifier l’écriture des masques de sous réseau, on écrit simplement le nombre de bits à 1 précédé d’un /.
+	CIDR Pour simplifier l’écriture des masques de sous réseau, on écrit simplement le nombre de bits à 1 précédé d’un /.
 
 
