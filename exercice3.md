@@ -21,7 +21,8 @@
 	exit 1
  	fi* ###
 
-### 5. echo 'Malgre le prix élevé de 100$ , il a dit "Bonjour !" au vendeur :
+### 5. le script est :
+       echo 'Malgre le prix élevé de 100$ , il a dit "Bonjour !" au vendeur :
        - "Bonjour est-ce que ce clavier fonctionne bien ?"
        - "Evidemment ! On peut tout ecrire avec, que ce soit des pipe | ou bien des backslash \\ !"
        - "Même des tildes ~ ?"
