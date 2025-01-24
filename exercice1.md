@@ -2,7 +2,7 @@
 ## exercice 1
 ### Creation de patition de 6G type ext4 ###
 #### **fdisk /dev/sdb** #### 
-![La partition avec le type ext4](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/partition.png)
+![La partition sdb](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/partition.png)
 
 ### la patition de type ext4 ###
 ####  **mkfs.ext4 /dev/sdb1** #### 
@@ -12,6 +12,7 @@
 #### *fdisk /dev/sdb* ####
 #### *mkswap /dev/sdb2* ####
 #### *swapon /dev/sdb2* ####
+![La partition swap](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/swap.png)
 
 ### Montage ###
 #### *blkid /dev/sdb* ####
