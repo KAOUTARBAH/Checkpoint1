@@ -6,3 +6,7 @@
 
 ### 2. La commande de xhanger les droits au fichier myfile rwxr--r-- ###
 #### *chmod 744 myfile* #### 
+
+### 3. la différence entre variables local et variables d'environnement en bash script ###
+#### variables local celles qui n'existent que dans les limites du shell dans lequel elles ont été créées) ####
+#### variables d'environnement  qui sont héritées par les shells et/ou les processus enfants####
