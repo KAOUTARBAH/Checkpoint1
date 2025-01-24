@@ -19,5 +19,19 @@
 ### *if [ ! -d "$1" ]; then
 	echo "Erreur : Le répertoire $1 n'existe pas."
 	exit 1
-fi* ###
+ 	fi* ###
+
+### 6. fg %1 ###
+
+### 7. Materiel réseaux sur la cauche 2 C'est switch
+###    Matériel réseau de la cauxhe 3 c'est Rrouteur
+###    La couche 2 commute les trames Ethernet en fonction des adresses MAC 
+###    la couche 3 transfère les paquets IP à l'aide des adresses réseau
+
+### 8. cd  | Set-Location ou cd
+###   cp   | Copy-Item    
+###   mkdir| New-Item -ItemType Directory
+###   ls   | Get-ChildItem  ou ls
+      
+
 
