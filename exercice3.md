@@ -28,10 +28,10 @@
        - "Evidement !" '
 ### 6. fg %1 ###
 
-### 7. Materiel réseaux sur la cauche 2 C'est switch
-###    Matériel réseau de la cauxhe 3 c'est Rrouteur
-###    La couche 2 commute les trames Ethernet en fonction des adresses MAC 
-###    la couche 3 transfère les paquets IP à l'aide des adresses réseau
+### 7.* Materiel réseaux sur la cauche 2 C'est switch
+    Matériel réseau de la cauxhe 3 c'est Rrouteur
+    La couche 2 commute les trames Ethernet en fonction des adresses MAC 
+    la couche 3 transfère les paquets IP à l'aide des adresses réseau*
 
 ### 8. cd  | Set-Location ou cd
 ####   cp   | Copy-Item    
