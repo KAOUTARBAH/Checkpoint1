@@ -32,6 +32,12 @@
 ###   cp   | Copy-Item    
 ###   mkdir| New-Item -ItemType Directory
 ###   ls   | Get-ChildItem  ou ls
-      
+
+### 9. payload : C'est la charge utile
+#### le PAYLOAD = la charge utile (ou donnée utile) qui est envoyée dans la 
+#### trame. Le payload est encapsulé dans une trame, qui contient diverses 
+#### informations : la fréquence utilisée, le timestamp, etc..
+
+#### 10. CIDR Pour simplifier l’écriture des masques de sous réseau, on écrit simplement le nombre de bits à 1 précédé d’un /.
 
 
