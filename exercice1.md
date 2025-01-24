@@ -4,14 +4,8 @@
 #### **fdisk /dev/sdb** #### 
 
 ####  **mkfs.ext4 /dev/sdb1** #### 
-![Logo Markdown en blanc sur fond bleu](!
-[
-Logo Markdown en blanc sur fond bleu
-](
-https://www.markdownguide.org/assets/images/markdown-guide-og.jpg
-)
-)
-x### Creation de patition swap ###
+https://github.com/KAOUTARBAH/Checkpoint1/blob/main/partition%20disk%20ext4.png
+### Creation de patition swap ###
 #### *fdisk /dev/sdb* ####
 #### *mkswap /dev/sdb2* ####
 #### *swapon /dev/sdb2* ####
