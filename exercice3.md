@@ -23,11 +23,12 @@
  	fi
 
 ### 5. le script est :
-       echo 'Malgre le prix élevé de 100$ , il a dit "Bonjour !" au vendeur :
-       - "Bonjour est-ce que ce clavier fonctionne bien ?"
-       - "Evidemment ! On peut tout ecrire avec, que ce soit des pipe | ou bien des backslash \\ !"
-       - "Même des tildes ~ ?"
-       - "Evidement !" '
+       echo "Malgré le prix élevé de 100$, il a dit \"Bonjour !\" au vendeur :"
+       echo "- \"Bonjour est-ce que ce clavier fonctionne bien ?\""
+       echo "- \"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\\\ !\""
+       echo "- \"Même des tildes ~ ?\""
+       echo "- \"Evidemment !\""
+       
 ### 6. Pour mettre en avant le processus gedit, tu peux utiliser la commande suivante dans le terminal : 
     fg %1 
 
