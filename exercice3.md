@@ -28,7 +28,9 @@
        - "Evidemment ! On peut tout ecrire avec, que ce soit des pipe | ou bien des backslash \\ !"
        - "Même des tildes ~ ?"
        - "Evidement !" '
-### 6. fg %1 ###
+### 6. Pour mettre en avant le processus gedit, tu peux utiliser la commande suivante dans le terminal : 
+    fg %1 
+
 
 ### 7. Materiel réseaux sur la cauche 2 C'est switch
     Matériel réseau de la cauxhe 3 c'est Rrouteur
